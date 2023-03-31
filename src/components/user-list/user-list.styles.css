@@ -1,0 +1,15 @@
+.user-list-title {
+  margin-bottom: 20px;
+  margin-left: 60px;
+  text-align: start;
+}
+
+.users-list {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  margin: 10px 25px;
+  grid-template-columns: 200px 200px 200px;
+  column-gap: 50px;
+  row-gap: 50px;
+}

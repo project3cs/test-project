@@ -3,7 +3,6 @@ import axios from "axios"; // to make web requests
 
 // custom components
 import UserList from "../../components/user-list/user-list.component";
-
 // styles
 import "./users.styles.css";
 
